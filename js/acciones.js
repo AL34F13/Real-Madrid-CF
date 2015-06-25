@@ -22,7 +22,8 @@ document.addEventListener("deviceready",function(){
 	});
 	audio.preloadFX ('btnchamp','music/DAMN_SON.mp3',function(){}, function(msg){ alert ("Error " + msg);
 	});
-	audio.preloadFX ('btnmas','music/.mp3',function(){}, function(msg){ alert ("Error " + msg);	    });
+	audio.preloadFX ('btnmas','music/.mp3',function(){}, function(msg){ alert ("Error " + msg);	    
+	});
 
 
 
