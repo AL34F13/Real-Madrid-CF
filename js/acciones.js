@@ -4,7 +4,7 @@ document.addEventListener("deviceready",function(){
 	
 	$('#btnmenu').on('tap',function(){
 	navigator.vibrate(1000);	
-	alert ("unjik")
+	
 });
 	
 	$('.ui-btn').on('tap', function (){
